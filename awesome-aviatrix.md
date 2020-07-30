@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collaborative curated list of awesome Aviatrix resources
+A collaborative curated list of awesome Aviatrix resources.
 
 ## About Aviatrix
 
@@ -9,8 +9,8 @@ Aviatrix is a cloud native networking company. Aviatrix cloud-native networking 
 ## Contents
 
 - [Certification](#Certification)
-- [Docs](#books)
-- [Videos](#roles)
+- [Docs](#docs)
+- [Videos](#videos)
 - [Resources](#resources)
 
 
